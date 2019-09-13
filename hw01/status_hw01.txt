@@ -1,0 +1,39 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? 
+
+Soham Sankhe
+
+2. Which VPS & domain providers did you choose?
+
+VPS - vultr
+Domain proider - Joker
+
+3. What domain name did you register?
+
+soham5610.space
+
+4. Which parts of this assignment did you have trouble with, if any?
+
+I mistakenly deleted the default nginx config file while tampering 
+with the symlink.
+I used the default config from Nat's notes and changed the root and
+server name - 
+"http://www.ccs.neu.edu/home/ntuck/courses/2019/09/cs5610/notes/
+01-welcome/default-nginx.txt"
+
+5. Whats the URL for your git repository?
+
+https://github.com/SohamSankhe/webdev_5610/tree/master/hw01
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
