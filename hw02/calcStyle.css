@@ -1,0 +1,46 @@
+table 
+{
+	border: 4px solid black;
+	border-collapse: collapse;
+	width: 400;
+	height: 500;
+}
+
+td 
+{
+	border: 4px solid black;
+	width: 100;
+}
+
+.numbers, .operators, #clearAll, #output 
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 30;
+}
+
+.numbers, .operators, #clearAll
+{
+	background-color: #696969;
+	color: white;
+}
+
+.operators
+{
+	font-size: 40;
+}
+
+#output
+{
+	background-color: white;
+	color: black;
+	text-align: right;
+	font-size: 40;
+	padding-right: 10%;
+}
+
+#clearAll
+{
+	background-color: #ff0000;
+}
