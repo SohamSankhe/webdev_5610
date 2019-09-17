@@ -17,25 +17,33 @@ https://github.com/SohamSankhe/webdev_5610/tree/master/hw02
 
 4. How many HTML / CSS tutorial exercises did you do?
 
+Most in HTML and some in CSS.
 
 5. How comfortable do you feel with HTML and CSS now?
 
+I have worked on these technologies previously.
+This assignment helped me revise these.
 
 6. How many JS tutorial exercises did you do?
 
+Did some and checked answers of others.
 
 7. How comfortable do you feel with JS now?
 
+I am comfortable with basic operations in JS.
 
 8. Do all of your HTML pages pass the W3C HTML validator?
 (https://validator.w3.org/)
 
+Yes
 
 9. Which parts of this assignment did you have trouble with, if any?
 
-In Part A, I spent some time trying to find a less verbose way to give
-different color to each letter in the header using CSS.
-Operations chaining in the calculator.
+Finding a less verbose way to give different color to each letter 
+in the header using CSS.
+Operation chaining in the calculator
+Handling of consecutive operators and negative numbers.
+Had to refer to w3schools for css tags and attributes. 
 
 And here's a list of tasks for grading comments. Just leave this here:
  - Task 1
